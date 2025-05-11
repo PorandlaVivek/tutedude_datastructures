@@ -1,4 +1,4 @@
-l=[1,2,3,4,5,6,7,8,9,10]
+l=list(range(0,11))
 print("Original list:",l)
 f_5=l[0:5]
 print("Extracted first five elements:",f_5)
